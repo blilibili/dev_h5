@@ -1,0 +1,3 @@
+var hostObj = {
+  hostname: ''
+}
